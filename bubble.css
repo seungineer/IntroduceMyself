@@ -1,0 +1,10 @@
+.big_bubble {
+    position: absolute;
+    background-color: white;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    border-radius: 10000000px;
+    width: 70%;
+    height: 13%;
+}
