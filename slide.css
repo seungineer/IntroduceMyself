@@ -1,0 +1,16 @@
+.slide {
+    position: relative;
+    justify-items: center;
+    align-items: center;
+    background-color: rgba(247,247,247,255);
+    width: 80vw;
+    aspect-ratio: 1.78/1; /* 1920*1080 */
+    margin:1%;
+    padding: 3%
+}
+
+.bottomHr {
+    width: 95%;
+    aspect-ratio: 1.5/1;
+    border-bottom-style: solid;
+}
